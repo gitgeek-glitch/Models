@@ -1,0 +1,7 @@
+Flask==2.3.2
+Flask-Cors==5.0.0
+tensorflow==2.17.1
+numpy>=1.26.0
+Pillow==8.4.0
+requests==2.31.0
+gunicorn==23.0.0
